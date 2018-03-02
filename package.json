@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vsnehil92/nodeGCall.git"
+    "url": "git+https://github.com/juggernaut451/nodeGCall.git"
   },
-  "author": "node <vsnehil92@gmail.com>",
+  "contributor": {"Snehil Verma <vsnehil92@gmail.com>"},
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vsnehil92/nodeGCall/issues"
+    "url": "https://github.com/juggernaut451/nodeGCall/issues"
   },
-  "homepage": "https://github.com/vsnehil92/nodeGCall#readme",
+  "homepage": "https://github.com/juggernaut451/nodeGCall#readme",
   "dependencies": {
     "nopy": ""
   },
