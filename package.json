@@ -14,7 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/juggernaut451/nodeGCall.git"
   },
-  "contributor": {"Snehil Verma <vsnehil92@gmail.com>"},
+  "author": "",
+  "contributor": [
+    {
+      "name": "Snehil Verma",
+      "email": "vsnehil92@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/juggernaut451/nodeGCall/issues"
