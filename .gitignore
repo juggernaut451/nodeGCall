@@ -9,3 +9,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/modules.xml
+
+.idea/nodeGCall.iml
+
+.idea/workspace.xml
+
+.idea/vcs.xml
