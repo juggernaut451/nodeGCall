@@ -8,7 +8,8 @@
     "install": "npm run npip -- install",
     "nopenv": "nopenv",
     "nopy": "nopy",
-    "npip": "npip"
+    "npip": "npip",
+    "start": "npm run -s nopy -- App.py"
   },
   "repository": {
     "type": "git",
