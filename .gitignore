@@ -18,3 +18,5 @@ yarn-error.log*
 .idea/vcs.xml
 
 /client_secret.json
+
+/storage.json
