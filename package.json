@@ -9,7 +9,7 @@
     "nopenv": "nopenv",
     "nopy": "nopy",
     "npip": "npip",
-    "start": "npm run -s nopy -- App.py"
+    "start": "npm run -s nopy -- Authenticate.py"
   },
   "repository": {
     "type": "git",
